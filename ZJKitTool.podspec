@@ -102,7 +102,7 @@ Pod::Spec.new do |s|
 
   s.dependency 'MBProgressHUD'
   
-  s.dependency 'YYCategories'
+  s.dependency 'YYKit'
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
